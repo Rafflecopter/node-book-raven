@@ -16,7 +16,7 @@
     "book"
   ],
   "dependencies": {
-    "raven": "defunctzombie/raven-node#v1.0.0-dz5",
+    "raven": "git+https://github.com/defunctzombie/raven-node.git#v1.0.0-dz5",
     "xtend": "2.1.1"
   },
   "author": "Roman Shtylman <shtylman@gmail.com>",
